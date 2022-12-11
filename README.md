@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumitkrgupta05
 - 👀 I’m interested in coding and development
-- 🌱 I’m currently learning full MERN Stack 
+- 🌱 I’m currently learning MERN Stack 
 - 💞️ I’m looking to collaborate on Open Source Projects
 <!-- - 📫 How to reach me ... -->
 
