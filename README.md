@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkrgupta05&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkrgupta05" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sumitku20310364" target="blank"><img src="https://img.shields.io/twitter/follow/sumitku20310364?logo=twitter&style=for-the-badge" alt="sumitku20310364" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sumittttt_05" target="blank"><img src="https://img.shields.io/twitter/follow/sumittttt_05?logo=twitter&style=for-the-badge" alt="sumittttt_05" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/sumitkrgupta05/](https://github.com/sumitkrgupta05/)
 
@@ -11,9 +11,18 @@
 
 - 📄 Know about my experiences [https://sumitkrgupta.netlify.app/](https://sumitkrgupta.netlify.app/)
 
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/sumitkrgupta05/sumitkrgupta05/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sumitku20310364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumitku20310364" height="30" width="40" /></a>
+<a href="https://twitter.com/sumittttt_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumittttt_05" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sumit-kumar-gupta-83a2ba214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumit-kumar-gupta-83a2ba214/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sumit_gupta_05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sumit_gupta_05" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/skgsumit5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="skgsumit5" height="30" width="40" /></a>
